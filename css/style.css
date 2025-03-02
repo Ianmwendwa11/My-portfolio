@@ -1,0 +1,32 @@
+body {
+    background-color: #121212;
+    color: #ffd700;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #1e1e1e;
+}
+h1, h2 {
+    font-family: 'Great Vibes', cursive;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #ffd700;
+    font-weight: 600;
+}
+.section {
+    padding: 50px;
+    text-align: center;
+}
