@@ -32,6 +32,8 @@ nav ul li a {
 }
 
 #socials {
-    justify-content: space-between;
-    align-content: space-around;
+display: flex ;justify-content: center; gap: 30px;
+
+
 }
+   
